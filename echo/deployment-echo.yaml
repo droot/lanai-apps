@@ -21,6 +21,6 @@ spec:
       - name: echo
         image: hashicorp/http-echo
         args:
-        - -text=lanai-2
+        - -text=lanai-3
         ports:
         - containerPort: 5678
